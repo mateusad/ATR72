@@ -10,6 +10,12 @@
 		<engine>pw127f</engine>
 
 		<model>
+			<pushback>
+				<kp type="double">100</kp>
+				<ki type="double">25</ki>
+				<kd type="double">0</kd>
+				<position-norm type="double">0</position-norm>
+			</pushback>
 			<path>Aircraft/ATR72/Models/ATR72-500C.xml</path>
             <livery>
                <file type="string">blank</file>
