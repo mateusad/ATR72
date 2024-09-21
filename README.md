@@ -1,4 +1,4 @@
------ original README file -----
+----- original README file -----<br>
 Rename the Aircraft folder to 'ATR72'
 
 *** IMPORTANT NOTE! ***
@@ -24,10 +24,8 @@ NOTE:
 
 Detailed information about individual aircraft systems are available in the Docs/Aircraft Systems directory.
 
-Take-off trim configuration tables are available in the Docs directory.
+Take-off trim configuration tables are available in the Docs directory.<br>
 ----- end of original README file -----
 
-My effort to rewrite the FMC and NAV display of this aircraft, and adding a pushback.
-At this point, nothing is added. Updates will be provided in this file soon.
-Kind regards,
-Mateus Leite
+Update at this moment:
+- added pushback with provisory model (military truck), will be changed soon
