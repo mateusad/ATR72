@@ -73,11 +73,11 @@
 	<!--Pushback Truck-->
 	<model>
 		<name>Pushback</name>
-		<path>Models/Airport/Pushback/Military.xml</path>
+		<path>Models/Pushback/pushback.xml</path>
 		<offsets>
 			<x-m>-11.202</x-m>
             <y-m>0</y-m>
-            <z-m>-1.305</z-m>
+            <z-m>-1.500</z-m>
 		</offsets>
 	</model>
 	
